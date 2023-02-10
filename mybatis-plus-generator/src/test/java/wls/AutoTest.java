@@ -6,7 +6,13 @@ import org.junit.jupiter.api.Test;
 
 import java.util.Collections;
 
-public class AutoGenerator {
+/**
+ * 汽车发电机
+ *
+ * @author wls
+ * @since 2023-02-10
+ */
+public class AutoTest {
 
     @Test
     void test01() {
